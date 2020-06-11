@@ -1,11 +1,5 @@
-## 액티비티  vs 프래그먼트 😏 
-## 액티비티, 프래그먼트 사이 데이터 주고 받기 😏
-## Android Task vs Process 😡
-## Intent service vs Service 😡
-## Service ANR 발생 가능 😏
-## 백그라운 작업 제약사항 해결하기 위한 방법? 😏
-## ROOM + Proguard Issue 😡
-## Proguard란? 😏
+
+## Android Task vs Process 🤬 (대답 못함)
 ## MVI란 무엇인가 😡
 ## 뷰 중첩 상태에서 터치 이벤트 발생했을 때, 전파 흐름 😡
 ## paging library 사용 경험 😏
@@ -20,7 +14,6 @@
 ## map vs flatmap → 왜 map에서는 네트워크를 호출하면 안됨? 😡
 
 2차전
-
 ## 액티비티 vs 프레그먼트 라이프사이클 차이 🧐
 ## 레이아웃들 설명 😏
 ## linear vs relative vs constraint 성능 차이 🧐
